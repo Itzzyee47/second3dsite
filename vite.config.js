@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   server: {
-    open: '/bamilakeGong.html',
+    open: '/index.html',
     port: 8080,
   }
 })
